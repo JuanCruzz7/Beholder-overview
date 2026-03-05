@@ -75,33 +75,11 @@ The analyser auto-maps headers from standard CSV files.
 
 ---
 
-## Quick Start (Analyser)
+## Availability
 
-No build tools or dependencies required.
-
-```bash
-git clone https://github.com/JuanCruzz7/beholder-overview.git
-```
-
-1. Open `index.html` in any modern browser
-2. Click **"Select .csv"** and load your telemetry files
-3. Navigate the 3D view:
-   - `Left click + drag` → Rotate
-   - `Right click + drag` → Pan
-   - `Scroll` → Zoom
-   - `Click on path` → Inspect data point
-
----
-
-## Satellite Map Setup
-
-To enable real-world terrain textures beneath the flight path:
-
-1. Open `index.html` in a text editor
-2. Locate: `const GOOGLE_API_KEY = "YOUR_KEY_HERE";`
-3. Insert your key from [Google Cloud Console](https://console.cloud.google.com) with **Static Maps API** enabled
-
----
+> The Beholder Analyser and hardware firmware are not publicly available at this stage — this is an active commercial project under development.
+>
+> A browser-based interactive demo is planned for a future release.
 
 ## Technical Stack
 
@@ -126,4 +104,3 @@ To enable real-world terrain textures beneath the flight path:
 **Juan Cruz Armando** — Electronic Engineer & Embedded Software Developer
 
 [cruzjuanarmando@gmail.com](mailto:cruzjuanarmando@gmail.com) · [github.com/JuanCruzz7](https://github.com/JuanCruzz7)
-
