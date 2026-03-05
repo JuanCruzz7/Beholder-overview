@@ -1,4 +1,4 @@
-# 👁️ Beholder — Skydiving Trajectory Visualizer
+# Beholder — Skydiving Trajectory Visualizer
 
 **Full-Stack Telemetry System for High-Fidelity Jump Analysis**
 
